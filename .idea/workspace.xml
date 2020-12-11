@@ -19,31 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58a27f3c-14e2-456b-9729-9abf6e93a6da" name="Default Changelist" comment="player png update">
-      <change afterPath="$PROJECT_DIR$/maps/cs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps/home.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps/park.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps/rc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps/skov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trashImages/alu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trashImages/bag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trashImages/banana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trashImages/battery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trashImages/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trashImages/milk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trashImages/porcelain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trashImages/syringe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/game.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/T4-1-GUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/T4-1-GUI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/T4-1-GUI/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/T4-1-GUI/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/T4-1-GUI/Room_related/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/T4-1-GUI/Room_related/Room.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/T4-1-GUI/game.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/T4-1-GUI/game.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/T4-1-GUI/park.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/T4-1-GUI/street.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/park.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/street.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/maps/street.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="58a27f3c-14e2-456b-9729-9abf6e93a6da" name="Default Changelist" comment="player png update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
